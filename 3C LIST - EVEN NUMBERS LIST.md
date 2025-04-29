@@ -2,6 +2,7 @@
 LIST - EVEN NUMBERS LIST**
 
 **AIM** 
+
 To write a Python function that creates a list of even numbers from 12 to n and prints the list and its sum.
 
 
